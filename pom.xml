@@ -20,6 +20,8 @@
         <module>config</module>
         <module>eureka-server</module>
         <module>gateway</module>
+        <module>order-service</module>
+        <module>spring-cloud-starter-sleuth</module>
     </modules>
     <properties>
         <java.version>17</java.version>
