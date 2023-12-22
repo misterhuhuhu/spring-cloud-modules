@@ -24,6 +24,7 @@
         <module>gateway2</module>
         <module>spring-cloud-loadbalancer</module>
         <module>spring-cloud-sentinel</module>
+        <module>spring-cloud-starter-sleuth</module>
     </modules>
     <properties>
         <java.version>17</java.version>
